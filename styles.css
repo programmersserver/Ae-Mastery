@@ -148,7 +148,6 @@ transition: 0.2s
 
 .header li a:hover,
 .header .menu-btn:hover {
-  background-color: var(--primary-color-dark);
 }
 
 .header .logo {
